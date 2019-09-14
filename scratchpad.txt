@@ -1,0 +1,5 @@
+Github Issues and commands
+
+When you get error of 
+failed to merge unrelated history
+git pull --allow-unrelated-histories origin/master
